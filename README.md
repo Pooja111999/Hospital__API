@@ -1,1 +1,1 @@
-# HOSPITAL-API
+# Hostel-Api
