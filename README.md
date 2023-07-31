@@ -1,4 +1,4 @@
-# Hostel-Api!
+# Api!
 ![Screenshot (81)](https://github.com/Pooja111999/HOSPITAL-API/assets/101398180/a348fe70-5b3d-4ae8-9d5c-360832a2b953)
 
 #In this project we use first Register.
